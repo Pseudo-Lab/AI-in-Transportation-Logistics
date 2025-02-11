@@ -20,8 +20,8 @@
 > Welcome to OOO repository! We aim to OOO, offering tools and frameworks for OOO, OOO, and OOO. Join us in advancing the field of OOO through open collaboration and innovation!
 
 ## 🌟 프로젝트 목표 (Project Vision)
-_"이론에서 실전까지, 함께 성장하는 AI 실험실"_  
-- Graph-based RAG 스터디 및 프로젝트
+_"모빌리티 산업에서 AI 활용 방안을 찾아보자!"_  
+- 동적 경로 최적화
 - 개인 성장과 집단 지혜의 시너지 창출
 - 오픈소스 정신을 바탕으로 한 지식 공유 문화
 - 실패를 성공의 디딤돌로 만드는 실험적 접근
@@ -31,7 +31,7 @@ _"이론에서 실전까지, 함께 성장하는 AI 실험실"_
 
 | 역할          | 이름 |  기술 스택 배지                                                                 | 주요 관심 분야                          |
 |---------------|------|-----------------------------------------------------------------------|----------------------------------------|
-| **Project Manager** | 김찬란 | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C) | 생성형 AI/추천 시스템 최적화             |
+| **Project Manager** | 김성희 | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C) | 시계열 예측 모델 / 최적 경로 생성 모델             |
 | **Member** | 레오나르도 다빈치 | ![SQL](https://img.shields.io/badge/SQL-Advanced-003B57) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 데이터 파이프라인 설계                  |
 
 
@@ -73,10 +73,9 @@ class CollaborationFramework:
 **2024 주요 KPI**  
 | 지표                     | 목표치 | 현재 달성률 |
 |--------------------------|--------|-------------|
-| 커밋 수                  | 1,200  | 83%         |
-| 이슈 해결률              | 95%    | 89%         | 
-| 기술 블로그 게시물       | 24편   | 15편        |
-| 오픈소스 기여도          | 8회    | 5회         |
+| 논문 리뷰 수                  | 15  | 83%         |
+| 논문 리뷰 블로그 게시물       | 15편   | 15편        |
+
 
 
 ## 💻 주차별 활동 (Activity History)
