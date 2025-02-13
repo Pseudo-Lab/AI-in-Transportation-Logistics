@@ -64,11 +64,10 @@ gantt
 
 
 ## 🛠️ 우리의 스터디 문화 (Our Study Culture)
-**우리의 스터디 문화**  
 
-- communication': 'Discord',
-'version_control': 'GitHub Projects',
-'docs': 'Github Wiki'
+- communication: Discord
+- version_control': GitHub Projects
+- docs: Github Wiki
     
 
 
