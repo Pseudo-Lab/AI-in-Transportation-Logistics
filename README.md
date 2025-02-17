@@ -21,7 +21,7 @@
 
 > Welcome to ALT (AI in Logistics & Transportation) Study Group! We explore AI applications in transportation and logistics, focusing on route optimization and demand forecasting. Join us in advancing smart mobility through collaboration and innovation!!
 
-안녕하세요! ALT(AI in Logistics & Transportation) 스터디는 물류와 교통 산업에서 AI가 어떻게 혁신을 이끌어내는지 함께 공부하고 싶은 열정 가득한 분들을 찾고 있습니다.
+안녕하세요! ALT(AI in Logistics & Transportation) 스터디는 물류와 교통 산업에서 AI가 어떻게 혁신을 이끌어내는지 함께 공부하고 싶은 열정 가득한 분들을 찾고 있습니다.❤️‍🔥🚛❤️‍🔥
 
 ## 🌟 Why This Study?
 "오늘 저녁은 배달 음식 시켜 먹을까?" 한번쯤 고민해보셨죠? 코로나19 이후 배달앱으로 음식 주문하기, 온라인 쇼핑 택배 받기 등.. 
@@ -160,8 +160,6 @@ ALT(AI in Logistics & Transportation) Study is developed as part of Pseudo-Lab's
 
 [Pseudo-Lab](https://pseudo-lab.com/) is a non-profit organization focused on advancing machine learning and AI technologies. Our core values of Sharing, Motivation, and Collaborative Joy drive us to create impactful open-source projects. With over 5k+ researchers, we are committed to advancing machine learning and AI technologies.
 
-
-<br><br>
 
 <h2>License 🗞</h2>
 
