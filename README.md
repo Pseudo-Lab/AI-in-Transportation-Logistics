@@ -14,6 +14,8 @@
 </div>
 <br>
 
+<img width="1000" alt = "test" src="https://nexocode.com/images/digital-freight-matching.webp">
+
 <!-- sheilds: https://shields.io/ -->
 <!-- hits badge: https://hits.seeyoufarm.com/ -->
 
@@ -38,12 +40,13 @@ _"AI 기술로 선도하는 Logistics & Transportation 스터디!!"_
 <br/><br/>
 ## 🌟 이런 분들과 함께하고 싶어요
 - 교통·물류 산업의 미래를 AI와 함께 그려보고 싶은 분
+- 쿠팡, 배달의 민족 등 물류 산업에 기여하고 싶은 분
 - 교통량 예측, GIS 데이터 분석, 최적화, 시계열 분석에 관심 있는 분
 - 이론적 지식 논문 리뷰를 통해 얻고, 얻은 지식을 실제 문제 해결에 적용해보고 싶은 분
 - 논문을 빠르게 읽고 요약하는 스킬을 기르고 싶은 분
 <br/><br/>
 ## 🌟 스터디는 이렇게 진행해요
-- 스터디는 매주 화요일 20:30에 진행합니다. (소요시간 : 1시간 - 1시간 30분 정도 예상)
+- 스터디는 매주 화요일 20:00에 진행합니다. (소요시간 : 1시간 - 1시간 30분 정도 예상)
 - 발표자는 발표 1주일 전에 선정한 논문을 공유합니다. (논문 선정이 어렵다면, 다른 팀원이 추천하거나 스터디 장이 선정합니다!)
 - 발표는 30분, 질의응답 & 토론은 30분 정도 진행합니다.
 
@@ -157,10 +160,7 @@ ALT(AI in Logistics & Transportation) Study is developed as part of Pseudo-Lab's
 
 [Pseudo-Lab](https://pseudo-lab.com/) is a non-profit organization focused on advancing machine learning and AI technologies. Our core values of Sharing, Motivation, and Collaborative Joy drive us to create impactful open-source projects. With over 5k+ researchers, we are committed to advancing machine learning and AI technologies.
 
-<h2>Contributors 😃</h2>
-<a href="https://github.com/Pseudo-Lab/10th-template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Pseudo-Lab/10th-template" />
-</a>
+
 <br><br>
 
 <h2>License 🗞</h2>
