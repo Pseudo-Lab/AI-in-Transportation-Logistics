@@ -72,7 +72,12 @@ _"AI 기술로 선도하는 Logistics & Transportation 스터디!!"_
 | 역할          | 이름 |  기술 스택 배지                                                                 | 주요 관심 분야                          |
 |---------------|------|-----------------------------------------------------------------------|----------------------------------------|
 | **Project Manager** | 김성희 | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C)![SQL](https://img.shields.io/badge/SQL-Advanced-003B57) | Transportation, Logistics, Mobility, Optimization, GNN, Time Series Forecasting             |
-| **Member** | 레오나르도 다빈치 | ![SQL](https://img.shields.io/badge/SQL-Advanced-003B57) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 데이터 파이프라인 설계                  |
+| **Member** |  |  |                 |
+| **Member** |  |  |                 |
+| **Member** |  |  |                 |
+| **Member** |  |  |                 |
+| **Member** |  |  |                 |
+| **Member** |  |  |                 |
 
 
 ## 🚀 프로젝트 로드맵 (Project Roadmap)
